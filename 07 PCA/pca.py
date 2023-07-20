@@ -17,7 +17,7 @@ class PCA:
         cov = np.cov(X.T)
 
         # eigenvectors, eigenvalues
-        eigenvectors, eigenvalues = np.linalg.eig(cov)
+        eigenvalues, eigenvectors = np.linalg.eig(cov)
 
         # eigenvectors v = [:, i] column vector, transpose this for easier calculations
         eigenvectors = eigenvectors.T
