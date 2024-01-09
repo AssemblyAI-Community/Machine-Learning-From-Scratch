@@ -6,4 +6,5 @@ This repository contains the code developed in the Machine Learning from scratch
 
 The code is based on the similar repository by Python Engineer (Patrick Loeber): https://github.com/python-engineer/MLfromscratch
 
-Interestiungly, the code can be altered to the liking of the end user.
+Interestiungly, the code can be altered to the liking of the end user;
+    The one single requirement is to upgrade the code and make it better.
